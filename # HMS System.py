@@ -1,3 +1,4 @@
+pip install streamlit
 # HMS System
 
 # Initialize empty lists to store patients, doctors, and appointments
